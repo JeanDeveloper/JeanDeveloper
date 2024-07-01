@@ -1,6 +1,6 @@
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si le das a alguien un programa, lo frustrarás un día. Si le enseñas a programar, lo frustrarás toda la vida</em>"
+    <h4 align="center">"<em>Si se puede imaginar, Se puede programar</em>"
     </h4>
 </span>
 <hr>      
