@@ -1,6 +1,6 @@
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si se puede imaginar, Se puede programar</em>"
+    <h4 align="center">"<em> If you can imagine, you can program </em>"
     </h4>
 </span>
 <hr>      
@@ -23,7 +23,7 @@
 
 
 
-## Sobre mi
+## About me
 
 - 📲 Mobile Developer
 - ✏️ Backend Developer
@@ -35,7 +35,9 @@
 <p align="center">
 <a href="https://github.com/JeanDeveloper">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanDeveloper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanDeveloper&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://gitpilled.vercel.app/JeanDeveloper"/>
 </a>
+
+
 </p>
 
