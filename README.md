@@ -18,7 +18,6 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
 </p>
 
